@@ -1,2 +1,2 @@
 # findyourhat
-# find_your_hat
+# a terminal game
